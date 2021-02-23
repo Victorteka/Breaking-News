@@ -1,0 +1,1 @@
+/home/jogoo/MobileApplication/Android/BreakingNews/buildSrc/build/classes/kotlin/main/Libraries.class:/home/jogoo/MobileApplication/Android/BreakingNews/buildSrc/build/classes/kotlin/main/Versions.class
